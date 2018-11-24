@@ -1,5 +1,7 @@
 # JIIT-Plethora
 DBMS PROJECT on hubs and events  management of our college.....
+
+
 Step 1: Import The database Plethora-database.sql
 
 Step 2: Open firstpage.php and enter your sql server password.
